@@ -1,4 +1,4 @@
-chicken-invadars
+chicken-invaders
 ================
 
 An Android game composed of different levels with different difficulties, It includes the following functionality:
